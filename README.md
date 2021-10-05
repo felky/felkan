@@ -1,3 +1,3 @@
 ## felkan.
 
-god tier developer (maybe)
+fullstack dev.
